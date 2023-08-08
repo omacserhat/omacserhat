@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Serhat OMAÇ</h1>
 <h3 align="center">A passionate FullStack Developer from Istanbul</h3>
 
-- 🌱 I’m currently learning **C#, .NetCore, Vue.JS**
+- 🌱 I’m currently learning **C#, .NetCore, Vue.JS, React.JS**
 
-- 💬 Ask me about **C#, .NetCore, Vue.JS**
+- 💬 Ask me about **C#, .NetCore, Vue.JS, React.JS**
 
 - 📫 How to reach me **omacserhatt@gmail.com**
 
